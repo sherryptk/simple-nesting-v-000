@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-		 :grace_hopper
+		 :grace_hopper[:known_for, :languages]
 
 end
 
